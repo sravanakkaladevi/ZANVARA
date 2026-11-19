@@ -1,0 +1,69 @@
+{
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "responses": [
+    {
+      "url": "http://127.0.0.1:3000/atelier/02-cut.png",
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "url": "http://127.0.0.1:3000/atelier/04-chain.png",
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "url": "http://127.0.0.1:3000/atelier/03-setting.png",
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "url": "http://127.0.0.1:3000/atelier/01-earth.png",
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "url": "http://127.0.0.1:3000/atelier/05-heirloom.png",
+      "status": 200,
+      "mimeType": "image/png"
+    }
+  ],
+  "textureUploads": [
+    "http://127.0.0.1:3000/atelier/01-earth.png",
+    "http://127.0.0.1:3000/atelier/02-cut.png",
+    "http://127.0.0.1:3000/atelier/03-setting.png",
+    "http://127.0.0.1:3000/atelier/04-chain.png",
+    "http://127.0.0.1:3000/atelier/05-heirloom.png"
+  ],
+  "screenshots": [
+    "D:\\watch\\tmp\\atelier-qa\\desktop-earth-cut.png",
+    "D:\\watch\\tmp\\atelier-qa\\desktop-setting-chain.png",
+    "D:\\watch\\tmp\\atelier-qa\\desktop-heirloom.png",
+    "D:\\watch\\tmp\\atelier-qa\\mobile-earth.png"
+  ],
+  "desktop": {
+    "width": 1440,
+    "height": 1000,
+    "canvas": true,
+    "cards": [
+      "The Earth",
+      "The Cut",
+      "The Setting",
+      "The Chain",
+      "The Heirloom"
+    ]
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "horizontalOverflow": false,
+    "card": [
+      {
+        "width": 310,
+        "height": 393.171875
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "catalogueUrl": "https://www.bhimagold.com/jewellery/necklaces",
+  "selection": "First 16 product listings returned by the supplied catalogue during this session. Product-code filenames identify the actual photographs; they are not assignments to the procedural style/length variants.",
+  "imageBaseUrl": "https://images.bhimagold.com/products/necklaces/images/",
+  "outputSize": 2048,
+  "frameFill": 0.85,
+  "products": [
+    {
+      "id": "96173",
+      "sku": "44593980",
+      "title": "Premium Antique Finished & Studded 22KT Gold Lakshmi Devi Necklace For Women",
+      "productPath": "premium-antique-finished-&-studded-22kt-gold-lakshmi-devi-necklace-for-women-ngo-chnc-g-s-96173",
+      "image": "3ee0c60c-180a-441a-b21f-ed2a4ddafb50-NGO-CHNC-G-S-96173.webp"
+    },
+    {
+      "id": "97519",
+      "sku": "48806869",
+      "title": "Antique Finished Ruby & Emerald Studded 22KT Gold Necklace For Women",
+      "productPath": "antique-finished-ruby-&-emerald-studded-22kt-gold-necklace-for-women-ngo-chns-s-97519",
+      "image": "98e00cad-3e34-4d96-8e19-9fbce10a98f4-NGO-CHNS--S-97519.webp"
+    },
+    {
+      "id": "97524",
+      "removeAttachedShadow": true,
+      "sku": "41455354",
+      "title": "Gorgeously Detailed & Ruby Studded 22KT Gold Choker Necklace For Women",
+      "productPath": "gorgeously-detailed-&-ruby-studded-22kt-gold-choker-necklace-for-women-ngo-chns-p-s-97524",
+      "image": "2af4fc31-c383-4614-bd57-17e67c6de5bf-NGO-CHNS-P-S-97524.webp"
+    },
+    {
+      "id": "97548",
+      "sku": "49036164",
+      "title": "Intricately Detailed Blue Sapphire & Ruby Studded 22KT Gold Necklace For Women",
+      "productPath": "intricately-detailed-blue-sapphire-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97548",
+      "image": "1dd13ee4-8c82-4e3c-bbb1-d163896968d6-NGO-CHNS-P-S-97548.webp"
+    },
+    {
+      "id": "97573",
+      "sku": "49507869",
+      "title": "Elegant Ruby Studded 22KT Gold Necklace For Women",
+      "productPath": "elegant-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97573",
+      "image": "a0d6e0ad-0f78-4825-8a3d-d7734c5ff332-NGO-CHNS-P-S-97573.webp"
+    },
+    {
+      "id": "97619",
+      "sku": "41295767",
+      "title": "Gorgeously Detailed & Ruby Studded 22KT Gold Necklace For Women",
+      "productPath": "gorgeously-detailed-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97619",
+      "image": "d550b9a7-cb96-4200-bea5-30c38813a961-NGO-CHNS-P-S-97619.webp"
+    },
+    {
+      "id": "97673",
+      "sku": "42458465",
+      "title": "Traditionally Crafted 22KT Gold Haaram For Women",
+      "productPath": "traditionally-crafted-22kt-gold-haaram-for-women-ngo-chfc-p-p-97673",
+      "image": "c2150506-844e-4966-bfe0-71fb5241ee38-NGO-CHFC-P-P-97673.webp"
+    },
+    {
+      "id": "97630",
+      "sku": "43897868",
+      "title": "Specially Crafted And Studded 22KT Gold Haaram For Women",
+      "productPath": "specially-crafted-and-studded-22kt-gold-haaram-for-women-ngo-chfc-p-s-97630",
+      "image": "2a9abd76-3a4f-43a6-9ca8-fe6ecf89a6dd-NGO-CHFC-P-S-97630.webp"
+    },
+    {
+      "id": "97584",
+      "sku": "47306863",
+      "title": "Ruby & Emerald Studded & Detailed 22KT Gold Necklace For Women",
+      "productPath": "ruby-&-emerald-studded-&-detailed-22kt-gold-necklace-for-women-ngo-chfs-s-97584",
+      "image": "8d96a183-3b04-4b29-a5f0-269a4e2652b0-NGO-CHFS--S-97584.webp"
+    },
+    {
+      "id": "97567",
+      "sku": "41998550",
+      "title": "One Of Its Kind Ruby & Emerald Studded 22KT Gold Necklace For Women",
+      "productPath": "one-of-its-kind-ruby-&-emerald-studded-22kt-gold-necklace-for-women-ngo-chfs-p-s-97567",
+      "image": "f7a48f31-95d4-4bb7-8c4f-948dc451c9dc-NGO-CHFS-P-S-97567.webp"
+    },
+    {
+      "id": "97592",
+      "sku": "41795764",
+      "title": "Intricately Detailed & Ruby Studded 22KT Gold Necklace For Women",
+      "productPath": "intricately-detailed-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chfs-p-s-97592",
+      "image": "ea8ede92-452b-461b-88cf-9c54bbd6ca72-NGO-CHFS-P-S-97592.webp"
+    },
+    {
+      "id": "97457",
+      "sku": "43037866",
+      "title": "Antique Finished & Studded 22KT Gold Floral Pattern Choker For Women",
+      "productPath": "antique-finished-&-studded-22kt-gold-floral-pattern-choker-for-women-ngo-chkr-ox-s-97457",
+      "image": "4f6108ea-495e-4cee-9f43-cab7321b6d89-NGO-CHKR-OX-S-97457.webp"
+    },
+    {
+      "id": "97462",
+      "sku": "41118460",
+      "title": "Fancy Antique Finished And Pearl Studded 22KT Gold Choker For Women",
+      "productPath": "fancy-antique-finished-and-pearl-studded-22kt-gold-choker-for-women-ngo-chkr-ox-s-97462",
+      "image": "8548651c-a17a-4be8-b112-9f9ebf29a3af-NGO-CHKR-OX-S-97462.webp"
+    },
+    {
+      "id": "97591",
+      "sku": "47277169",
+      "title": "Antique Finished & Studded 22KT Gold Lakshmi Necklace For Women",
+      "productPath": "antique-finished-&-studded-22kt-gold-lakshmi-necklace-for-women-ngo-chnc-ox-s-97591",
+      "image": "5f7c0f0c-abb0-462f-bab0-6d8f2a0fc4c5-NGO-CHNC-OX-S-97591.webp"
+    },
+    {
+      "id": "97598",
+      "sku": "41287368",
+      "title": "Classic Antique Finished And Studded 22KT Gold Necklace For Women",
+      "productPath": "classic-antique-finished-and-studded-22kt-gold-necklace-for-women-ngo-chnc-ox-s-97598",
+      "image": "55928c79-a598-4600-a95f-456a4fed5bdd-NGO-CHNC-OX-S-97598.webp"
+    },
+    {
+      "id": "97607",
+      "removeAttachedShadow": true,
+      "sku": "45188769",
+      "title": "Studded And Antique Finished 22KT Gold Necklace For Women",
+      "productPath": "studded-and-antique-finished-22kt-gold-necklace-for-women-ngo-chnc-ox-s-97607",
+      "image": "42475738-e4a7-44b4-aebc-6d6c0548882f-NGO-CHNC-OX-S-97607.webp"
+    }
+  ]
+}

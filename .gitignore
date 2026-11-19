@@ -1,0 +1,9 @@
+node_modules
+.next
+
+# local secrets
+.env*
+
+# headless-Chrome QA profile (cookies/cache)
+tmp/temple-qa/chrome-profile/
+.vercel

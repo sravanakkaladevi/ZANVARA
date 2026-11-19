@@ -1,0 +1,146 @@
+[
+  {
+    "file": "public\\collection\\guttapusalu-choker.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1447598
+  },
+  {
+    "file": "public\\collection\\guttapusalu-collar.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1472855
+  },
+  {
+    "file": "public\\collection\\guttapusalu-opera.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 756980
+  },
+  {
+    "file": "public\\collection\\guttapusalu-princess.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 968315
+  },
+  {
+    "file": "public\\collection\\haram-choker.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1389338
+  },
+  {
+    "file": "public\\collection\\haram-collar.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1359616
+  },
+  {
+    "file": "public\\collection\\haram-opera.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 753027
+  },
+  {
+    "file": "public\\collection\\haram-princess.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 938999
+  },
+  {
+    "file": "public\\collection\\kundan-choker.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1176426
+  },
+  {
+    "file": "public\\collection\\kundan-collar.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1200908
+  },
+  {
+    "file": "public\\collection\\kundan-opera.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 693006
+  },
+  {
+    "file": "public\\collection\\kundan-princess.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 820810
+  },
+  {
+    "file": "public\\collection\\temple-choker.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1502232
+  },
+  {
+    "file": "public\\collection\\temple-collar.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1501836
+  },
+  {
+    "file": "public\\collection\\temple-opera.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 796827
+  },
+  {
+    "file": "public\\collection\\temple-princess.png",
+    "width": 2048,
+    "height": 2048,
+    "alpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "bytes": 1015266
+  }
+]

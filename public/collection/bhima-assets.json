@@ -1,0 +1,615 @@
+{
+  "catalogueUrl": "https://www.bhimagold.com/jewellery/necklaces",
+  "selection": "First 16 product listings returned by the supplied catalogue during this session. Product-code filenames identify the actual photographs; they are not assignments to the procedural style/length variants.",
+  "processing": "Deterministic white-background matting, disconnected shadow removal, uniform downscaling and transparent padding. Opaque source RGB values are preserved before resizing. No generative edits.",
+  "products": [
+    {
+      "id": "96173",
+      "sku": "44593980",
+      "title": "Premium Antique Finished & Studded 22KT Gold Lakshmi Devi Necklace For Women",
+      "file": "public/collection/bhima-96173.png",
+      "src": "/collection/bhima-96173.png",
+      "productUrl": "https://www.bhimagold.com/products/premium-antique-finished-&-studded-22kt-gold-lakshmi-devi-necklace-for-women-ngo-chnc-g-s-96173?sku=44593980",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/3ee0c60c-180a-441a-b21f-ed2a4ddafb50-NGO-CHNC-G-S-96173.webp",
+      "originalFile": "docs/collection/originals/bhima-96173.webp",
+      "sourceSha256": "c6fec4dbcaefa2f16ed13b7265e875e61c809dc3f3aca42ad0e41c13a3e90dff",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 744,
+        "top": 400,
+        "width": 1456,
+        "height": 2032
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1247,
+        1741
+      ],
+      "centreOffset": [
+        -0.5,
+        -0.5
+      ],
+      "sourceColouredPixels": 336975,
+      "retainedColouredPixels": 336975,
+      "preservedOpaquePixels": 351426,
+      "outputBytes": 1106248
+    },
+    {
+      "id": "97519",
+      "sku": "48806869",
+      "title": "Antique Finished Ruby & Emerald Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97519.png",
+      "src": "/collection/bhima-97519.png",
+      "productUrl": "https://www.bhimagold.com/products/antique-finished-ruby-&-emerald-studded-22kt-gold-necklace-for-women-ngo-chns-s-97519?sku=48806869",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/98e00cad-3e34-4d96-8e19-9fbce10a98f4-NGO-CHNS--S-97519.webp",
+      "originalFile": "docs/collection/originals/bhima-97519.webp",
+      "sourceSha256": "aca15a722a1ce0688a816f9f2ff550714b2a4ee9e2534e431d62b6733aa29689",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 696,
+        "top": 405,
+        "width": 1666,
+        "height": 2212
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1311,
+        1741
+      ],
+      "centreOffset": [
+        -0.5,
+        -0.5
+      ],
+      "sourceColouredPixels": 1008289,
+      "retainedColouredPixels": 1008289,
+      "preservedOpaquePixels": 1132278,
+      "outputBytes": 2708452
+    },
+    {
+      "id": "97524",
+      "sku": "41455354",
+      "title": "Gorgeously Detailed & Ruby Studded 22KT Gold Choker Necklace For Women",
+      "file": "public/collection/bhima-97524.png",
+      "src": "/collection/bhima-97524.png",
+      "productUrl": "https://www.bhimagold.com/products/gorgeously-detailed-&-ruby-studded-22kt-gold-choker-necklace-for-women-ngo-chns-p-s-97524?sku=41455354",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/2af4fc31-c383-4614-bd57-17e67c6de5bf-NGO-CHNS-P-S-97524.webp",
+      "originalFile": "docs/collection/originals/bhima-97524.webp",
+      "sourceSha256": "846369105ab583e9c1a54c9d89fb43d4e90913ef165ae68a49c9dd3e2d5665ca",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 380,
+        "top": 778,
+        "width": 2244,
+        "height": 1449
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1741,
+        1124
+      ],
+      "centreOffset": [
+        -0.5,
+        0
+      ],
+      "sourceColouredPixels": 1495201,
+      "retainedColouredPixels": 1495201,
+      "preservedOpaquePixels": 1547829,
+      "outputBytes": 3440051
+    },
+    {
+      "id": "97548",
+      "sku": "49036164",
+      "title": "Intricately Detailed Blue Sapphire & Ruby Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97548.png",
+      "src": "/collection/bhima-97548.png",
+      "productUrl": "https://www.bhimagold.com/products/intricately-detailed-blue-sapphire-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97548?sku=49036164",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/1dd13ee4-8c82-4e3c-bbb1-d163896968d6-NGO-CHNS-P-S-97548.webp",
+      "originalFile": "docs/collection/originals/bhima-97548.webp",
+      "sourceSha256": "f86c8a19207684a267b63ac5d773571c548d4189bda447dd1fb2498e72ba0a0a",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 666,
+        "top": 373,
+        "width": 1674,
+        "height": 2251
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1295,
+        1741
+      ],
+      "centreOffset": [
+        -0.5,
+        -0.5
+      ],
+      "sourceColouredPixels": 348545,
+      "retainedColouredPixels": 348545,
+      "preservedOpaquePixels": 402245,
+      "outputBytes": 979254
+    },
+    {
+      "id": "97573",
+      "sku": "49507869",
+      "title": "Elegant Ruby Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97573.png",
+      "src": "/collection/bhima-97573.png",
+      "productUrl": "https://www.bhimagold.com/products/elegant-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97573?sku=49507869",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/a0d6e0ad-0f78-4825-8a3d-d7734c5ff332-NGO-CHNS-P-S-97573.webp",
+      "originalFile": "docs/collection/originals/bhima-97573.webp",
+      "sourceSha256": "95056534fab9d6f7989e87371a9e71f4f1b2e28b34019e8e84934221263cc20a",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 764,
+        "top": 385,
+        "width": 1416,
+        "height": 2062
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1196,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 209068,
+      "retainedColouredPixels": 209068,
+      "preservedOpaquePixels": 214844,
+      "outputBytes": 635734
+    },
+    {
+      "id": "97619",
+      "sku": "41295767",
+      "title": "Gorgeously Detailed & Ruby Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97619.png",
+      "src": "/collection/bhima-97619.png",
+      "productUrl": "https://www.bhimagold.com/products/gorgeously-detailed-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chns-p-s-97619?sku=41295767",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/d550b9a7-cb96-4200-bea5-30c38813a961-NGO-CHNS-P-S-97619.webp",
+      "originalFile": "docs/collection/originals/bhima-97619.webp",
+      "sourceSha256": "92069b49cf500e4fa921448e42d0f8a83a4444ca7693c5a6eb4cf016932766be",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 896,
+        "top": 385,
+        "width": 1153,
+        "height": 2028
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        990,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 297561,
+      "retainedColouredPixels": 297561,
+      "preservedOpaquePixels": 310825,
+      "outputBytes": 990261
+    },
+    {
+      "id": "97673",
+      "sku": "42458465",
+      "title": "Traditionally Crafted 22KT Gold Haaram For Women",
+      "file": "public/collection/bhima-97673.png",
+      "src": "/collection/bhima-97673.png",
+      "productUrl": "https://www.bhimagold.com/products/traditionally-crafted-22kt-gold-haaram-for-women-ngo-chfc-p-p-97673?sku=42458465",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/c2150506-844e-4966-bfe0-71fb5241ee38-NGO-CHFC-P-P-97673.webp",
+      "originalFile": "docs/collection/originals/bhima-97673.webp",
+      "sourceSha256": "cfc85f68f4b90ffc8386fdd5979bd02f6617e4f19d1051e26b00506dfdc130d7",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 988,
+        "top": 460,
+        "width": 979,
+        "height": 2029
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        840,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 207983,
+      "retainedColouredPixels": 207983,
+      "preservedOpaquePixels": 216166,
+      "outputBytes": 699009
+    },
+    {
+      "id": "97630",
+      "sku": "43897868",
+      "title": "Specially Crafted And Studded 22KT Gold Haaram For Women",
+      "file": "public/collection/bhima-97630.png",
+      "src": "/collection/bhima-97630.png",
+      "productUrl": "https://www.bhimagold.com/products/specially-crafted-and-studded-22kt-gold-haaram-for-women-ngo-chfc-p-s-97630?sku=43897868",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/2a9abd76-3a4f-43a6-9ca8-fe6ecf89a6dd-NGO-CHFC-P-S-97630.webp",
+      "originalFile": "docs/collection/originals/bhima-97630.webp",
+      "sourceSha256": "ef7367a0f375091b27a72cbb321128f38a46f0ac2d81436cdb87ece9e26321a1",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 928,
+        "top": 424,
+        "width": 1088,
+        "height": 2028
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        934,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 451425,
+      "retainedColouredPixels": 451425,
+      "preservedOpaquePixels": 464668,
+      "outputBytes": 1403980
+    },
+    {
+      "id": "97584",
+      "sku": "47306863",
+      "title": "Ruby & Emerald Studded & Detailed 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97584.png",
+      "src": "/collection/bhima-97584.png",
+      "productUrl": "https://www.bhimagold.com/products/ruby-&-emerald-studded-&-detailed-22kt-gold-necklace-for-women-ngo-chfs-s-97584?sku=47306863",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/8d96a183-3b04-4b29-a5f0-269a4e2652b0-NGO-CHFS--S-97584.webp",
+      "originalFile": "docs/collection/originals/bhima-97584.webp",
+      "sourceSha256": "8e603ac33c51b0eacf40cb3f30700c1dedceb0d647c579c15421f88e0957ea90",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 983,
+        "top": 368,
+        "width": 1109,
+        "height": 2220
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        870,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 300226,
+      "retainedColouredPixels": 300226,
+      "preservedOpaquePixels": 308696,
+      "outputBytes": 814508
+    },
+    {
+      "id": "97567",
+      "sku": "41998550",
+      "title": "One Of Its Kind Ruby & Emerald Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97567.png",
+      "src": "/collection/bhima-97567.png",
+      "productUrl": "https://www.bhimagold.com/products/one-of-its-kind-ruby-&-emerald-studded-22kt-gold-necklace-for-women-ngo-chfs-p-s-97567?sku=41998550",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/f7a48f31-95d4-4bb7-8c4f-948dc451c9dc-NGO-CHFS-P-S-97567.webp",
+      "originalFile": "docs/collection/originals/bhima-97567.webp",
+      "sourceSha256": "e4ae44174ac5cd12dedb44cc2b47e919edf9f43c504dedddc4f80f6c25e3446c",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 923,
+        "top": 401,
+        "width": 1154,
+        "height": 2155
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        932,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 355871,
+      "retainedColouredPixels": 355871,
+      "preservedOpaquePixels": 385413,
+      "outputBytes": 1155897
+    },
+    {
+      "id": "97592",
+      "sku": "41795764",
+      "title": "Intricately Detailed & Ruby Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97592.png",
+      "src": "/collection/bhima-97592.png",
+      "productUrl": "https://www.bhimagold.com/products/intricately-detailed-&-ruby-studded-22kt-gold-necklace-for-women-ngo-chfs-p-s-97592?sku=41795764",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/ea8ede92-452b-461b-88cf-9c54bbd6ca72-NGO-CHFS-P-S-97592.webp",
+      "originalFile": "docs/collection/originals/bhima-97592.webp",
+      "sourceSha256": "d9a3849ed00922ab5755f30eaf19a25721b405427e5c06a3a222b238daf50f3d",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 1000,
+        "top": 379,
+        "width": 953,
+        "height": 2117
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        784,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 259386,
+      "retainedColouredPixels": 259386,
+      "preservedOpaquePixels": 283682,
+      "outputBytes": 834318
+    },
+    {
+      "id": "97457",
+      "sku": "43037866",
+      "title": "Antique Finished & Studded 22KT Gold Floral Pattern Choker For Women",
+      "file": "public/collection/bhima-97457.png",
+      "src": "/collection/bhima-97457.png",
+      "productUrl": "https://www.bhimagold.com/products/antique-finished-&-studded-22kt-gold-floral-pattern-choker-for-women-ngo-chkr-ox-s-97457?sku=43037866",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/4f6108ea-495e-4cee-9f43-cab7321b6d89-NGO-CHKR-OX-S-97457.webp",
+      "originalFile": "docs/collection/originals/bhima-97457.webp",
+      "sourceSha256": "70e874e77b7323c5314daa92633ca0afce943de346abd6f6b7a651299e34f989",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 461,
+        "top": 859,
+        "width": 2077,
+        "height": 1284
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1741,
+        1076
+      ],
+      "centreOffset": [
+        -0.5,
+        0
+      ],
+      "sourceColouredPixels": 1313005,
+      "retainedColouredPixels": 1313005,
+      "preservedOpaquePixels": 1326627,
+      "outputBytes": 3269178
+    },
+    {
+      "id": "97462",
+      "sku": "41118460",
+      "title": "Fancy Antique Finished And Pearl Studded 22KT Gold Choker For Women",
+      "file": "public/collection/bhima-97462.png",
+      "src": "/collection/bhima-97462.png",
+      "productUrl": "https://www.bhimagold.com/products/fancy-antique-finished-and-pearl-studded-22kt-gold-choker-for-women-ngo-chkr-ox-s-97462?sku=41118460",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/8548651c-a17a-4be8-b112-9f9ebf29a3af-NGO-CHKR-OX-S-97462.webp",
+      "originalFile": "docs/collection/originals/bhima-97462.webp",
+      "sourceSha256": "f21d64473f8807ba57d4e8d20fdf5d2f99425efd266894a8f579a74f73e37c83",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 500,
+        "top": 744,
+        "width": 1945,
+        "height": 1343
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1741,
+        1202
+      ],
+      "centreOffset": [
+        -0.5,
+        0
+      ],
+      "sourceColouredPixels": 1228320,
+      "retainedColouredPixels": 1228320,
+      "preservedOpaquePixels": 1399159,
+      "outputBytes": 3927424
+    },
+    {
+      "id": "97591",
+      "sku": "47277169",
+      "title": "Antique Finished & Studded 22KT Gold Lakshmi Necklace For Women",
+      "file": "public/collection/bhima-97591.png",
+      "src": "/collection/bhima-97591.png",
+      "productUrl": "https://www.bhimagold.com/products/antique-finished-&-studded-22kt-gold-lakshmi-necklace-for-women-ngo-chnc-ox-s-97591?sku=47277169",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/5f7c0f0c-abb0-462f-bab0-6d8f2a0fc4c5-NGO-CHNC-OX-S-97591.webp",
+      "originalFile": "docs/collection/originals/bhima-97591.webp",
+      "sourceSha256": "c87233bab53111229fcb4eecb2d38ab2fa7de2c604b92e9f89e4ee9269c2edcf",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 990,
+        "top": 519,
+        "width": 970,
+        "height": 2011
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        840,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 248474,
+      "retainedColouredPixels": 248474,
+      "preservedOpaquePixels": 269148,
+      "outputBytes": 900989
+    },
+    {
+      "id": "97598",
+      "sku": "41287368",
+      "title": "Classic Antique Finished And Studded 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97598.png",
+      "src": "/collection/bhima-97598.png",
+      "productUrl": "https://www.bhimagold.com/products/classic-antique-finished-and-studded-22kt-gold-necklace-for-women-ngo-chnc-ox-s-97598?sku=41287368",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/55928c79-a598-4600-a95f-456a4fed5bdd-NGO-CHNC-OX-S-97598.webp",
+      "originalFile": "docs/collection/originals/bhima-97598.webp",
+      "sourceSha256": "f02039a24f6bc580d3f3cbc48b539c7c313d40a9e2c0c3c4c8f9dedb6d964a6f",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 664,
+        "top": 508,
+        "width": 1616,
+        "height": 1901
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1480,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 624325,
+      "retainedColouredPixels": 624325,
+      "preservedOpaquePixels": 647293,
+      "outputBytes": 2103899
+    },
+    {
+      "id": "97607",
+      "sku": "45188769",
+      "title": "Studded And Antique Finished 22KT Gold Necklace For Women",
+      "file": "public/collection/bhima-97607.png",
+      "src": "/collection/bhima-97607.png",
+      "productUrl": "https://www.bhimagold.com/products/studded-and-antique-finished-22kt-gold-necklace-for-women-ngo-chnc-ox-s-97607?sku=45188769",
+      "imageUrl": "https://images.bhimagold.com/products/necklaces/images/42475738-e4a7-44b4-aebc-6d6c0548882f-NGO-CHNC-OX-S-97607.webp",
+      "originalFile": "docs/collection/originals/bhima-97607.webp",
+      "sourceSha256": "9029dc739a22ae7dbd09bb8dfe2708989b2a8f47c654ed2b1c0de1311492dd42",
+      "originalSize": [
+        3000,
+        3000
+      ],
+      "outputSize": [
+        2048,
+        2048
+      ],
+      "sourceCrop": {
+        "left": 793,
+        "top": 372,
+        "width": 1415,
+        "height": 2261
+      },
+      "frameFill": 0.85009765625,
+      "foregroundSize": [
+        1090,
+        1741
+      ],
+      "centreOffset": [
+        0,
+        -0.5
+      ],
+      "sourceColouredPixels": 331778,
+      "retainedColouredPixels": 331778,
+      "preservedOpaquePixels": 351166,
+      "outputBytes": 940386
+    }
+  ]
+}

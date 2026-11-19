@@ -1,0 +1,49 @@
+{
+  "collection": {
+    "median": 17.400000000001455,
+    "p95": 33.60000000000218
+  },
+  "opera": {
+    "median": 17,
+    "p95": 33.599999999998545
+  },
+  "filtered": {
+    "median": 16.899999999997817,
+    "p95": 33.5
+  },
+  "drawCalls": [
+    {
+      "style": "temple",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 427896
+    },
+    {
+      "style": "kundan",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 448560
+    },
+    {
+      "style": "guttapusalu",
+      "length": "opera",
+      "batches": 8,
+      "drawCalls": 14,
+      "residentDrawCalls": 15,
+      "triangles": 501848
+    },
+    {
+      "style": "haram",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 363320
+    }
+  ],
+  "dpr": 0.6
+}

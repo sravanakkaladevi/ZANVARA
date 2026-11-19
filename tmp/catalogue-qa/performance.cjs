@@ -1,0 +1,25 @@
+const {chromium}=require('C:/Users/kalai/node_modules/playwright');
+const fs=require('node:fs');
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',args:['--enable-webgl','--ignore-gpu-blocklist']});
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});
+ await page.goto('http://localhost:3000',{waitUntil:'networkidle'});
+ await page.waitForTimeout(6000);
+ await page.evaluate(()=>window.__lenis.scrollTo('#collection',{immediate:true}));
+ await page.waitForTimeout(6500);
+ const sample=()=>page.evaluate(()=>new Promise(resolve=>{let previous;const a=[];function frame(t){if(previous)a.push(t-previous);previous=t;if(a.length<120)requestAnimationFrame(frame);else{a.sort((x,y)=>x-y);resolve({median:a[60],p95:a[114]});}}requestAnimationFrame(frame);}));
+ const collection=await sample();console.log('collection',collection);
+ await page.evaluate(()=>{window.__jewellery.select(3)});
+ await page.waitForTimeout(1500);
+ const opera=await sample();console.log('opera',opera);
+ await page.getByRole('group',{name:'Filter by style',exact:true}).getByRole('button',{name:'Haram & Mango Mala',exact:true}).click();
+ await page.evaluate(()=>{window.__jewellery.select(9)});
+ await page.waitForTimeout(2000);
+ const filtered=await sample();console.log('worst filtered rail',filtered);
+ const drawCalls=await page.evaluate(()=>window.__jewellery.measureDrawCalls());console.log('calls',drawCalls);
+ const dpr=await page.evaluate(()=>window.__jewellery.snapshot().renderer.dpr);console.log('dpr',dpr);
+ fs.writeFileSync('tmp/catalogue-qa/performance.json',JSON.stringify({collection,opera,filtered,drawCalls,dpr},null,2));
+ await page.evaluate(()=>{document.querySelector('.gl').remove();});
+ console.log('baseline',await sample());
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

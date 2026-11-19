@@ -1,0 +1,3598 @@
+{
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "gpu": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "geometry": [
+    {
+      "id": "temple-choker",
+      "style": "temple",
+      "length": "choker",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1173,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04073834392279911,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.1152253648832622,
+          0.026000000387430167,
+          -0.95
+        ],
+        "max": [
+          1.115225364883262,
+          0.25999999999999995,
+          1.18098
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.7832014073645366,
+          -0.6549571446858664
+        ],
+        "max": [
+          0.781664052943535,
+          0.7404765450640072
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "kundan-collar",
+      "style": "kundan",
+      "length": "collar",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1354,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04085623456037907,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2535829571337793,
+          0.01095000017434342,
+          -0.95
+        ],
+        "max": [
+          1.2539741777905633,
+          0.22999999999999995,
+          1.2681107697969776
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8250503560594044,
+          -0.7564078996639557
+        ],
+        "max": [
+          0.8251927498298042,
+          0.8075516720780406
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "guttapusalu-princess",
+      "style": "guttapusalu",
+      "length": "princess",
+      "detail": "full",
+      "batches": 8,
+      "instances": 1363,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04028042347570943,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.3577305018723393,
+          0.02600000038742999,
+          -0.95
+        ],
+        "max": [
+          1.338023305653768,
+          0.20999999999999994,
+          1.3295868263994461
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8091031375247839,
+          -0.6141477552289688
+        ],
+        "max": [
+          0.8136206037472332,
+          0.6166209895844156
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "haram-opera",
+      "style": "haram",
+      "length": "opera",
+      "detail": "full",
+      "batches": 10,
+      "instances": 2171,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04136892045532471,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2430236990284378,
+          0.026000000387429962,
+          -0.8899999999999999
+        ],
+        "max": [
+          1.2442763195772855,
+          0.2599999999999999,
+          1.7332500000000002
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8323571991187187,
+          -0.7745609278024295
+        ],
+        "max": [
+          0.8323472377648294,
+          0.6534974952831406
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "temple-collar",
+      "style": "temple",
+      "length": "collar",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1397,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04085623456037907,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2263281391054863,
+          0.026000000387430174,
+          -0.95
+        ],
+        "max": [
+          1.2263281391054868,
+          0.25999999999999995,
+          1.29008
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8005486646871887,
+          -0.7761410466103749
+        ],
+        "max": [
+          0.8004603302203792,
+          0.7958010763642891
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "kundan-princess",
+      "style": "kundan",
+      "length": "princess",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1600,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04028042347570943,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.3752776679165886,
+          0.010950000174343399,
+          -0.95
+        ],
+        "max": [
+          1.375827172294941,
+          0.22999999999999995,
+          1.374714266364816
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.825682526300069,
+          -0.6245198726187825
+        ],
+        "max": [
+          0.8259084257165366,
+          0.6166209895844156
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "guttapusalu-choker",
+      "style": "guttapusalu",
+      "length": "choker",
+      "detail": "full",
+      "batches": 8,
+      "instances": 985,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04073834392279911,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.1231335667307667,
+          0.02600000038743003,
+          -0.95
+        ],
+        "max": [
+          1.113031326768813,
+          0.20999999999999994,
+          1.125589514889355
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.7988112749481644,
+          -0.6179833499126821
+        ],
+        "max": [
+          0.7945792389071166,
+          0.7550888257731796
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "haram-princess",
+      "style": "haram",
+      "length": "princess",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1711,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04028042347570943,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.3602763594492757,
+          0.02600000038742998,
+          -0.95
+        ],
+        "max": [
+          1.3602763594492757,
+          0.2599999999999999,
+          1.4717
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8174119863953856,
+          -0.6563924832780598
+        ],
+        "max": [
+          0.8172218185984169,
+          0.6098411003320434
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "temple-princess",
+      "style": "temple",
+      "length": "princess",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1647,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04028042347570943,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.3392493141471447,
+          0.026000000387430142,
+          -0.95
+        ],
+        "max": [
+          1.3392493141471447,
+          0.2599999999999999,
+          1.39918
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8077083894635655,
+          -0.6353811433446
+        ],
+        "max": [
+          0.80767353599953,
+          0.6098411003320434
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "temple-opera",
+      "style": "temple",
+      "length": "opera",
+      "detail": "full",
+      "batches": 10,
+      "instances": 2107,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04136892045532471,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2085259801930368,
+          0.023363462372239453,
+          -0.8899999999999999
+        ],
+        "max": [
+          1.2118541311060804,
+          0.2599999999999999,
+          1.65555
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8265509599913614,
+          -0.7580403084798365
+        ],
+        "max": [
+          0.8265545130312524,
+          0.6534974952831406
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "kundan-choker",
+      "style": "kundan",
+      "length": "choker",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1134,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04073834392279911,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.1386160967207035,
+          0.010950000174343437,
+          -0.95
+        ],
+        "max": [
+          1.1389263863709513,
+          0.22999999999999998,
+          1.1615072732291394
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8015982452713898,
+          -0.6347296007402811
+        ],
+        "max": [
+          0.802002968610589,
+          0.7550888257731796
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "kundan-opera",
+      "style": "kundan",
+      "length": "opera",
+      "detail": "full",
+      "batches": 10,
+      "instances": 2052,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04136892045532471,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2572363535270064,
+          0.009480792367258958,
+          -0.8899999999999999
+        ],
+        "max": [
+          1.2581682253064124,
+          0.22999999999999995,
+          1.629336713962303
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8392966076879999,
+          -0.7495682068934276
+        ],
+        "max": [
+          0.8392513003828046,
+          0.658905725631687
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "guttapusalu-collar",
+      "style": "guttapusalu",
+      "length": "collar",
+      "detail": "full",
+      "batches": 8,
+      "instances": 1161,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04085623456037907,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2381547687245387,
+          0.02600000038743001,
+          -0.95
+        ],
+        "max": [
+          1.2246644313841484,
+          0.20999999999999994,
+          1.2275881706444005
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8099124194949059,
+          -0.7427757820342394
+        ],
+        "max": [
+          0.8082273086803456,
+          0.8075516720780406
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "guttapusalu-opera",
+      "style": "guttapusalu",
+      "length": "opera",
+      "detail": "full",
+      "batches": 8,
+      "instances": 1727,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04136892045532471,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.201915857300267,
+          0.023036943418901463,
+          -0.8899999999999999
+        ],
+        "max": [
+          1.2230229671731752,
+          0.24411905517436752,
+          1.580985885427978
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8318638630323941,
+          -0.7417175871354869
+        ],
+        "max": [
+          0.8319366970731792,
+          0.658905725631687
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "haram-choker",
+      "style": "haram",
+      "length": "choker",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1237,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04073834392279911,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.1306767641382414,
+          0.02600000038743002,
+          -0.95
+        ],
+        "max": [
+          1.130676764138241,
+          0.2599999999999999,
+          1.2387000000000001
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.78662297017631,
+          -0.692157551321315
+        ],
+        "max": [
+          0.7887092666583796,
+          0.7404765450640072
+        ],
+        "fits": true
+      }
+    },
+    {
+      "id": "haram-collar",
+      "style": "haram",
+      "length": "collar",
+      "detail": "full",
+      "batches": 10,
+      "instances": 1461,
+      "glintDrawCalls": 0,
+      "minimumClearance": 0.04085623456037907,
+      "penetrations": 0,
+      "flatBounds": {
+        "min": [
+          -1.2431826377305664,
+          0.02600000038743,
+          -0.95
+        ],
+        "max": [
+          1.2431826377305666,
+          0.2599999999999999,
+          1.3552000000000002
+        ]
+      },
+      "fitsBox": true,
+      "card": {
+        "min": [
+          -0.8129243057513332,
+          -0.8103428999146302
+        ],
+        "max": [
+          0.8128637991156871,
+          0.7958010763642891
+        ],
+        "fits": true
+      }
+    }
+  ],
+  "drawCalls": [
+    {
+      "style": "temple",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 427896
+    },
+    {
+      "style": "kundan",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 448560
+    },
+    {
+      "style": "guttapusalu",
+      "length": "opera",
+      "batches": 8,
+      "drawCalls": 14,
+      "residentDrawCalls": 15,
+      "triangles": 501848
+    },
+    {
+      "style": "haram",
+      "length": "opera",
+      "batches": 10,
+      "drawCalls": 18,
+      "residentDrawCalls": 19,
+      "triangles": 363320
+    }
+  ],
+  "flights": [
+    {
+      "id": "kundan-collar",
+      "takeoffError": 4.099037227506403e-13,
+      "preLandingDisplacement": 0.00266484846997965,
+      "samples": [
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "card",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.002466,
+          "out": 0.206897,
+          "residentMatrix": [
+            0.5953824125241368,
+            0.002386390578954176,
+            -0.023784306355452024,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            0.023903725416874178,
+            -0.05943906045371588,
+            0.5924079803947959,
+            0,
+            -2.1842696629213485,
+            0.4818905522599589,
+            0.08346746577198734,
+            1
+          ],
+          "flyerMatrix": [
+            0.3590258501474023,
+            -0.005434709217988769,
+            -0.2960397037277487,
+            0,
+            -0.010814510514325734,
+            0.3833527943981351,
+            0.16367067963496182,
+            0,
+            0.10590145366150616,
+            0.012286631545662792,
+            0.66938532938486,
+            0,
+            0.6716653495456616,
+            -1.6811039466246251,
+            -0.16692593462452793,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.7
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": 0.01708940024463018,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.876296022807283,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "card",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.038527,
+          "out": 0.413793,
+          "residentMatrix": [
+            0.5953158879126539,
+            0.0025464348751781953,
+            -0.025379410947887593,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.025506838899308562,
+            -0.05943241907446043,
+            0.592341788129277,
+            0,
+            -2.1842696629213485,
+            2.558825908744425,
+            0.2918560937075346,
+            1
+          ],
+          "flyerMatrix": [
+            0.3639807081199157,
+            -0.005184342513265034,
+            -0.2849710570661702,
+            0,
+            -0.011195792726557394,
+            0.38591202390551066,
+            0.1633026937909935,
+            0,
+            0.09925654362976115,
+            0.011820979141442256,
+            0.6749800810384332,
+            0,
+            0.6716239307809263,
+            -1.639608087893494,
+            -0.16212937012053683,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.7
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.8742186393551037,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "card",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.157807,
+          "out": 0.62069,
+          "residentMatrix": [
+            0.595276467493468,
+            0.002636684414236933,
+            -0.026278896013049082,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.02641084020558466,
+            -0.059428483599327446,
+            0.5923025646479899,
+            0,
+            -2.1842696629213485,
+            3.3851770154767924,
+            0.37476776102897585,
+            1
+          ],
+          "flyerMatrix": [
+            0.41011161771649834,
+            -0.0040306507885673835,
+            -0.25526703184804345,
+            0,
+            -0.015319951338962003,
+            0.42028541593122165,
+            0.15618718476559362,
+            0,
+            0.07672901812327702,
+            0.0038298629360237965,
+            0.6908020238989181,
+            0,
+            0.5604679251553348,
+            -0.9045898237605408,
+            -0.08135494166326215,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.8607063571711695,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "card",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.410237,
+          "out": 0.827586,
+          "residentMatrix": [
+            0.5830312266488797,
+            0.023640504545214613,
+            0.12069515536680417,
+            0,
+            -0.034868021619912044,
+            0.5925307385249486,
+            0.05237509143914815,
+            0,
+            -0.11794242261579442,
+            -0.058309996396788355,
+            0.5811550004083167,
+            0,
+            -3.6388643884801484,
+            3.3786213785432566,
+            0.44010546331351263,
+            1
+          ],
+          "flyerMatrix": [
+            0.5533855894787633,
+            0.0005086431537852281,
+            -0.11042397108431093,
+            0,
+            -0.012430195264509027,
+            0.5446734665167892,
+            0.09648488878242376,
+            0,
+            0.02859000022771451,
+            -0.03770518166168439,
+            0.6470864307289795,
+            0,
+            -1.7022547565093387,
+            3.375685844029532,
+            0.3460524855400396,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.735743,
+          "out": 1,
+          "residentMatrix": [
+            0.38206326329093476,
+            0.08562092297328316,
+            0.44916402975366554,
+            0,
+            -0.08543676592065949,
+            0.5883817189986874,
+            -0.039485655737683055,
+            0,
+            -0.4491990951731392,
+            -0.03908472245289072,
+            0.3895435310697384,
+            0,
+            -7.541336665883649,
+            3.360517322987938,
+            0.6205421476523069,
+            1
+          ],
+          "flyerMatrix": [
+            0.5952296669958111,
+            0.002739965832094962,
+            -0.02730826518037011,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.027445377751498745,
+            -0.05942381134574561,
+            0.5922559979578844,
+            0,
+            -2.1842696629213485,
+            3.2131025565536184,
+            0.3575027266186378,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.915356,
+          "out": 1,
+          "residentMatrix": [
+            0.3823049528318003,
+            0.0856419640409444,
+            0.4489543209140004,
+            0,
+            -0.08549081239597497,
+            0.5883770138073089,
+            -0.039438760768269784,
+            0,
+            -0.448983128043825,
+            -0.039109447071905716,
+            0.38978995255596144,
+            0,
+            -7.541199634428368,
+            3.3602223945352536,
+            0.6234815946705108,
+            1
+          ],
+          "flyerMatrix": [
+            0.5952144412785577,
+            0.0027727356601709684,
+            -0.027634870404615004,
+            0,
+            0,
+            0.5928852405518719,
+            0.059486946195075524,
+            0,
+            0.027773622833923737,
+            -0.059422291310371286,
+            0.5922408483057979,
+            0,
+            -2.1842696629213485,
+            0.1088661592118898,
+            0.04604018561563511,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.05373327936809951,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.986785,
+          "out": 1,
+          "residentMatrix": [
+            0.38260856561439943,
+            0.08566842926164243,
+            0.44869055146972003,
+            0,
+            -0.08555870611078545,
+            0.588371095669966,
+            -0.039379776797725516,
+            0,
+            -0.4487114869924847,
+            -0.03914050638192369,
+            0.3900995096549424,
+            0,
+            -7.5410250900239895,
+            3.3598517120440627,
+            0.6271760552541403,
+            1
+          ],
+          "flyerMatrix": [
+            0.595195047455849,
+            0.0028139226036366454,
+            -0.028045366025018285,
+            0,
+            0,
+            0.5928852405518719,
+            0.059486946195075524,
+            0,
+            0.02818617951934081,
+            -0.059420355158788414,
+            0.5922215513714219,
+            0,
+            -2.1842696629213485,
+            -0.33881520552658406,
+            0.0011222226858333406,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.040365644302977684,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "kundan-collar",
+          "resident": "temple-choker",
+          "incoming": "kundan-collar",
+          "residentRig": {
+            "id": "temple-choker",
+            "style": "temple",
+            "length": "choker",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1173,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.999961,
+          "out": 1,
+          "residentMatrix": [
+            0.38288471824780085,
+            0.08569253302669508,
+            0.4484503178141786,
+            0,
+            -0.08562045920291753,
+            0.5883657055999686,
+            -0.03932605588664398,
+            0,
+            -0.44846408410267424,
+            -0.039168756543789984,
+            0.3903810689731631,
+            0,
+            -7.5408640035176155,
+            3.359514371310745,
+            0.6305382103925948,
+            1
+          ],
+          "flyerMatrix": [
+            0.5951771489551407,
+            0.0028514049073385594,
+            -0.02841893881817988,
+            0,
+            0,
+            0.5928852405518719,
+            0.059486946195075545,
+            0,
+            0.028561627991013493,
+            -0.05941856829030987,
+            0.592203742288665,
+            0,
+            -2.1842696629213485,
+            -0.34999990258566127,
+            9.774035747422971e-9,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 92888,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.03547095651175276,
+              "penetrations": 0
+            }
+          ]
+        }
+      ],
+      "landed": {
+        "selected": "kundan-collar",
+        "resident": "kundan-collar",
+        "incoming": "kundan-collar",
+        "residentRig": {
+          "id": "kundan-collar",
+          "style": "kundan",
+          "length": "collar",
+          "detail": "full",
+          "batches": 10,
+          "instances": 1354,
+          "glintDrawCalls": 1
+        },
+        "flyerRig": {
+          "id": "kundan-collar",
+          "style": "kundan",
+          "length": "collar",
+          "detail": "full",
+          "batches": 10,
+          "instances": 1354,
+          "glintDrawCalls": 0
+        },
+        "flyerVisible": false,
+        "flying": false,
+        "k": 0,
+        "out": 0,
+        "residentMatrix": [
+          0.5952990526133111,
+          0.002585363979734418,
+          -0.025767403490715348,
+          0,
+          -2.584139798696485e-19,
+          0.5928852405518719,
+          0.05948694619507553,
+          0,
+          0.025896779521033843,
+          -0.059430738349006765,
+          0.5923250369363071,
+          0,
+          -2.1842696629213485,
+          -0.35,
+          0,
+          1
+        ],
+        "flyerMatrix": [
+          0.5952625806513402,
+          0.002667748604792551,
+          -0.026588501754613286,
+          0,
+          0,
+          0.5928852405518719,
+          0.05948694619507553,
+          0,
+          0.026722000452313568,
+          -0.059427097228431404,
+          0.5922887471822302,
+          0,
+          -2.1842696629213485,
+          -0.34999990258566127,
+          9.774035747422971e-9,
+          1
+        ],
+        "renderer": {
+          "calls": 18,
+          "triangles": 92888,
+          "dpr": 0.6
+        }
+      }
+    },
+    {
+      "id": "guttapusalu-princess",
+      "takeoffError": 0.002828326470751799,
+      "preLandingDisplacement": 4.492506044822583,
+      "samples": [
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.010483,
+          "out": 0.292414,
+          "residentMatrix": [
+            0.595856122218856,
+            0.00026576784659661614,
+            -0.0026488136261637804,
+            0,
+            1.615087374185303e-20,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.0026621131032387633,
+            -0.059486352511038426,
+            0.5928793235141742,
+            0,
+            -2.1842696629213485,
+            1.4963397467921546,
+            0.18525189305272466,
+            1
+          ],
+          "flyerMatrix": [
+            0.2149972791650598,
+            -0.002648696158857852,
+            -0.14433296853617855,
+            0,
+            -0.006365901738155898,
+            0.2252393944654044,
+            0.09610326834924554,
+            0,
+            0.046411241467815265,
+            0.0074082663047134595,
+            0.40491476964165807,
+            0,
+            0.6643875261711948,
+            -1.4198987319132381,
+            -0.05637504042452876,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": 0.09460543818447792,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.8167328674395166,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.033662,
+          "out": 0.398621,
+          "residentMatrix": [
+            0.5958611138154302,
+            0.00010651222037295885,
+            -0.0010615694271891092,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            0.001066899480659444,
+            -0.05948685083917893,
+            0.5928842901735567,
+            0,
+            -2.1842696629213485,
+            2.7419470219325768,
+            0.3102294905511905,
+            1
+          ],
+          "flyerMatrix": [
+            0.21734552427321066,
+            -0.002809828141318107,
+            -0.15365141813894806,
+            0,
+            -0.006584858397813913,
+            0.2283628409366804,
+            0.0968357167694259,
+            0,
+            0.05073500610336727,
+            0.007193979371693443,
+            0.4060278348978242,
+            0,
+            0.66425552757176,
+            -1.3912721804384394,
+            -0.05376619581604812,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.8210330853598318,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.07065,
+          "out": 0.491034,
+          "residentMatrix": [
+            0.5958619612316486,
+            -0.00003577172721152575,
+            0.00035652408552310383,
+            0,
+            -2.0188592177316288e-21,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            -0.0003583141638643123,
+            -0.059486935439635354,
+            0.5928851333562238,
+            0,
+            -2.1842696629213485,
+            3.4410550486472737,
+            0.38037426516391604,
+            1
+          ],
+          "flyerMatrix": [
+            0.22866674484331936,
+            -0.0029481963030776473,
+            -0.16314717881277946,
+            0,
+            -0.007418388975553188,
+            0.23950662238984557,
+            0.09930223266902588,
+            0,
+            0.05345909170751981,
+            0.006525636751966518,
+            0.41819590425836795,
+            0,
+            0.6600093246650135,
+            -1.2802180630269246,
+            -0.04360280769765361,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.8142720327997564,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.1353,
+          "out": 0.593103,
+          "residentMatrix": [
+            0.5958591080351453,
+            -0.00018753285279624472,
+            0.0018690732614995882,
+            0,
+            0,
+            0.5928852405518719,
+            0.059486946195075524,
+            0,
+            -0.0018784577258300506,
+            -0.059486650595280056,
+            0.5928822944138188,
+            0,
+            -2.1842696629213485,
+            3.784575174924408,
+            0.4148412443886848,
+            1
+          ],
+          "flyerMatrix": [
+            0.26647088704304317,
+            -0.0030693010317960952,
+            -0.17553177584133967,
+            0,
+            -0.010138127754734782,
+            0.27414401655985715,
+            0.10551441099849287,
+            0,
+            0.05281966951276744,
+            0.003975151597566708,
+            0.4580951218954932,
+            0,
+            0.6024449782805755,
+            -0.8626897585893608,
+            -0.005367368759595002,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.7727784495386558,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.192644,
+          "out": 0.658621,
+          "residentMatrix": [
+            0.5958463104193139,
+            -0.00008223814715774936,
+            0.004332762218771672,
+            0,
+            -0.0003507179420527843,
+            0.5928853916617994,
+            0.05948440621563479,
+            0,
+            -0.004319327318273694,
+            -0.05948538327008308,
+            0.5928696634342119,
+            0,
+            -2.1986174247697536,
+            3.8002036181076284,
+            0.41633951221600285,
+            1
+          ],
+          "flyerMatrix": [
+            0.314591254906092,
+            -0.0030527664362234985,
+            -0.18007479820021002,
+            0,
+            -0.013385424632996488,
+            0.3168723396280975,
+            0.11011221726595258,
+            0,
+            0.04723079730709706,
+            -0.0003156052091161307,
+            0.5017957485230944,
+            0,
+            0.4220562885379633,
+            -0.20048802237399785,
+            0.05474783924308162,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.7239083136411629,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.270142,
+          "out": 0.728966,
+          "residentMatrix": [
+            0.5946803946966279,
+            0.0043074488488618595,
+            0.03725961996241882,
+            0,
+            -0.00799052959020699,
+            0.5928808813669673,
+            0.05899167041424492,
+            0,
+            -0.036646757458163565,
+            -0.059374334739930444,
+            0.5917628822204549,
+            0,
+            -2.511777718952035,
+            3.8004116973216644,
+            0.41426566067783105,
+            1
+          ],
+          "flyerMatrix": [
+            0.3917087034119206,
+            -0.002798971971977919,
+            -0.16829000017954426,
+            0,
+            -0.017201574059186035,
+            0.3848914758945651,
+            0.11038156494865314,
+            0,
+            0.032926986586898424,
+            -0.009776120249946861,
+            0.5557424518860884,
+            0,
+            -0.15560021982234,
+            1.1870162877235297,
+            0.17844050914431353,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.09653222560279477,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.362951,
+          "out": 0.797241,
+          "residentMatrix": [
+            0.5857174997279492,
+            0.01423538410644063,
+            0.10855399386318693,
+            0,
+            -0.024597591841999597,
+            0.5928100025855427,
+            0.05498058331784089,
+            0,
+            -0.10668446100478328,
+            -0.058525720036046947,
+            0.5833050412144987,
+            0,
+            -3.2073266715270874,
+            3.8010457861106537,
+            0.40794592318520095,
+            1
+          ],
+          "flyerMatrix": [
+            0.48327555813589773,
+            -0.002188926105330673,
+            -0.12273844737965858,
+            0,
+            -0.017161454386103114,
+            0.4691185399931633,
+            0.09882513808303006,
+            0,
+            0.012472235848789967,
+            -0.02602312981129719,
+            0.5941009486568486,
+            0,
+            -1.2750865164668732,
+            3.1798615685241853,
+            0.3529244921022989,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-princess",
+          "resident": "kundan-collar",
+          "incoming": "guttapusalu-princess",
+          "residentRig": {
+            "id": "kundan-collar",
+            "style": "kundan",
+            "length": "collar",
+            "detail": "full",
+            "batches": 10,
+            "instances": 1354,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "card",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.454238,
+          "out": 0.853793,
+          "residentMatrix": [
+            0.5625687532613292,
+            0.026899596946574702,
+            0.194536409882501,
+            0,
+            -0.04373740225465536,
+            0.5925830324679013,
+            0.0445420532421608,
+            0,
+            -0.1914550671303193,
+            -0.05633264193276265,
+            0.5614474115666284,
+            0,
+            -4.075523363972289,
+            3.8020276832619184,
+            0.3981597034183391,
+            1
+          ],
+          "flyerMatrix": [
+            0.5522297044884306,
+            -0.0014152644350890762,
+            -0.057698021454007556,
+            0,
+            -0.010455641587747,
+            0.540084818554892,
+            0.07932706741955745,
+            0,
+            -0.0013956879981042447,
+            -0.04374763415062316,
+            0.6016500177141514,
+            0,
+            -1.9631795102058547,
+            4.142506044822583,
+            0.4426925884372763,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 145480,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        }
+      ],
+      "landed": {
+        "selected": "guttapusalu-princess",
+        "resident": "guttapusalu-princess",
+        "incoming": "guttapusalu-princess",
+        "residentRig": {
+          "id": "guttapusalu-princess",
+          "style": "guttapusalu",
+          "length": "princess",
+          "detail": "full",
+          "batches": 8,
+          "instances": 1363,
+          "glintDrawCalls": 1
+        },
+        "flyerRig": {
+          "id": "guttapusalu-princess",
+          "style": "guttapusalu",
+          "length": "princess",
+          "detail": "full",
+          "batches": 8,
+          "instances": 1363,
+          "glintDrawCalls": 0
+        },
+        "flyerVisible": false,
+        "flying": false,
+        "k": 0,
+        "out": 0,
+        "residentMatrix": [
+          0.5954338261911616,
+          -0.0022549181333232377,
+          0.022473967238392175,
+          0,
+          -2.584139798696485e-19,
+          0.5928852405518719,
+          0.059486946195075545,
+          0,
+          -0.022586807194030653,
+          -0.059444193255757304,
+          0.5924591372076379,
+          0,
+          -2.1842696629213485,
+          -0.35,
+          0,
+          1
+        ],
+        "flyerMatrix": [
+          0.595613011467186,
+          -0.0017197615186674072,
+          0.017140251549362353,
+          0,
+          0,
+          0.5928852405518719,
+          0.059486946195075524,
+          0,
+          -0.01722631135375498,
+          -0.059462081934075615,
+          0.5926374273036387,
+          0,
+          -2.1842696629213485,
+          -0.34999999999999964,
+          0,
+          1
+        ],
+        "renderer": {
+          "calls": 18,
+          "triangles": 145480,
+          "dpr": 0.6
+        }
+      }
+    },
+    {
+      "id": "haram-opera",
+      "takeoffError": 0.0053709545442075304,
+      "preLandingDisplacement": 5.523458689894152,
+      "samples": [
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.016254,
+          "out": 0.327586,
+          "residentMatrix": [
+            0.5952196448605316,
+            -0.0027615799891722143,
+            0.02752368579846756,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            -0.02766187997894144,
+            -0.05942281080173854,
+            0.5922460258915362,
+            0,
+            -2.1842696629213485,
+            2.217154872736199,
+            0.2575746423485531,
+            1
+          ],
+          "flyerMatrix": [
+            0.16974406850452126,
+            -0.00017481766265559973,
+            -0.00942913385041739,
+            0,
+            -0.004919033229083469,
+            0.17472150640543047,
+            0.07448096285698616,
+            0,
+            -0.017213554501344343,
+            0.006069913489154269,
+            0.33313646292124255,
+            0,
+            0.6600304154632562,
+            -1.2620500535565518,
+            0.009665045856018292,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": 0.10961761833972802,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.7289176574864908,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.040645,
+          "out": 0.42,
+          "residentMatrix": [
+            0.5952439532584277,
+            -0.0027088567204434457,
+            0.02699821172621598,
+            0,
+            -2.584139798696485e-19,
+            0.5928852405518719,
+            0.059486946195075524,
+            0,
+            -0.027133767544251532,
+            -0.05942523759215371,
+            0.5922702128486941,
+            0,
+            -2.1842696629213485,
+            3.3120688978853288,
+            0.3674324820236517,
+            1
+          ],
+          "flyerMatrix": [
+            0.17493663428433523,
+            -0.00038529761381034776,
+            -0.020463361834055917,
+            0,
+            -0.005029200378956786,
+            0.1794942442457026,
+            0.07589527900721776,
+            0,
+            -0.01207201267995275,
+            0.005954845927511599,
+            0.34002659361653165,
+            0,
+            0.6594810231453876,
+            -1.2228584438684353,
+            0.013694647201491588,
+            1.0000000000000002
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.6925452616401457,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.067578,
+          "out": 0.484828,
+          "residentMatrix": [
+            0.5952629568704144,
+            -0.0026669117991175513,
+            0.02658016160999921,
+            0,
+            2.584139798696485e-19,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            -0.026713618432513932,
+            -0.05942713478766697,
+            0.5922891215217762,
+            0,
+            -2.1842696629213485,
+            3.834876883648725,
+            0.419888249838877,
+            1
+          ],
+          "flyerMatrix": [
+            0.18468920298214142,
+            -0.0005585361747483743,
+            -0.029056761320492657,
+            0,
+            -0.005283923304479569,
+            0.18906568190608472,
+            0.07862557977378327,
+            0,
+            -0.008733025672412006,
+            0.005686543738946295,
+            0.3539318171718628,
+            0,
+            0.6558259535511182,
+            -1.1377330839262563,
+            0.022333484402078222,
+            0.9999999999999998
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.6434262421401142,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.117455,
+          "out": 0.568966,
+          "residentMatrix": [
+            0.5952886193445048,
+            -0.0026091973122411524,
+            0.026004941841231272,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            -0.026135510532224685,
+            -0.059429696760135035,
+            0.5923146557903874,
+            0,
+            -2.1842696629213485,
+            4.211839005794158,
+            0.4577106207529746,
+            1
+          ],
+          "flyerMatrix": [
+            0.2129481848235726,
+            -0.0008382549640123691,
+            -0.0415624898487846,
+            0,
+            -0.006118006139351637,
+            0.21707939252992117,
+            0.08580927644760201,
+            0,
+            -0.005581360370968647,
+            0.004572667581450661,
+            0.3930296831573973,
+            0,
+            0.6229287512440226,
+            -0.8446171693062966,
+            0.0511958886751569,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.5281350157330214,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.182681,
+          "out": 0.648276,
+          "residentMatrix": [
+            0.5953026427550755,
+            -0.0025081691233323155,
+            0.0256919802338909,
+            0,
+            -0.00006921439956949098,
+            0.5928855361779903,
+            0.05948395945270184,
+            0,
+            -0.025814026614551448,
+            -0.059431097166824605,
+            0.5923286131459102,
+            0,
+            -2.1871012191716224,
+            4.2745169995832315,
+            0.4638773519142335,
+            1
+          ],
+          "flyerMatrix": [
+            0.2660976513341126,
+            -0.00120059992076174,
+            -0.05448342238232827,
+            0,
+            -0.0077796629322226425,
+            0.26935063513623736,
+            0.09595376549875259,
+            0,
+            -0.0049946347611092845,
+            0.0011502581528575959,
+            0.45760585867085096,
+            0,
+            0.4577298960898505,
+            -0.12253861884833883,
+            0.11878783509450909,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.43628196803912617,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.264257,
+          "out": 0.724138,
+          "residentMatrix": [
+            0.5933547294303668,
+            0.0017202381963034633,
+            0.05457848545929805,
+            0,
+            -0.007130785340307097,
+            0.5929073796972945,
+            0.05883533150059965,
+            0,
+            -0.0541379921581258,
+            -0.059240907428085285,
+            0.5904330596469429,
+            0,
+            -2.4769460720519607,
+            4.275727549913336,
+            0.45181222721762343,
+            1
+          ],
+          "flyerMatrix": [
+            0.34901412467378723,
+            -0.0016213147493180837,
+            -0.060687863693857785,
+            0,
+            -0.009939538764884032,
+            0.34977562855342087,
+            0.10306032487319935,
+            0,
+            -0.00915559382743239,
+            -0.00754970451443971,
+            0.5343866542301603,
+            0,
+            -0.10722593166117769,
+            1.4485851707886481,
+            0.257618205605757,
+            1
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 0.07407046031489146,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.377579,
+          "out": 0.806897,
+          "residentMatrix": [
+            0.5789613959060398,
+            0.01424002483596116,
+            0.14018747795387337,
+            0,
+            -0.02739606437605156,
+            0.5928748112454908,
+            0.05291993083133994,
+            0,
+            -0.13821998024562063,
+            -0.057864368268924986,
+            0.5767135833129,
+            0,
+            -3.335921339537893,
+            4.279182725185689,
+            0.41737572385804367,
+            1
+          ],
+          "flyerMatrix": [
+            0.46936782076566264,
+            -0.002059444767595713,
+            -0.041436607112975615,
+            0,
+            -0.00982875346527712,
+            0.4660588898654137,
+            0.09454089939712795,
+            0,
+            -0.018950221911859407,
+            -0.0275222467894029,
+            0.5952374849054297,
+            0,
+            -1.4367158764760222,
+            4.196576627687308,
+            0.48684791793276494,
+            1
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "haram-opera",
+          "resident": "guttapusalu-princess",
+          "incoming": "haram-opera",
+          "residentRig": {
+            "id": "guttapusalu-princess",
+            "style": "guttapusalu",
+            "length": "princess",
+            "detail": "full",
+            "batches": 8,
+            "instances": 1363,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "card",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.469983,
+          "out": 0.862759,
+          "residentMatrix": [
+            0.5504175156371851,
+            0.027652921853948145,
+            0.2265556876897936,
+            0,
+            -0.046473920574733145,
+            0.5926600084093081,
+            0.04056962374189693,
+            0,
+            -0.2234554506340565,
+            -0.05514558529098345,
+            0.5496164401077467,
+            0,
+            -4.235948781115093,
+            4.282664446135539,
+            0.3826746491698735,
+            1
+          ],
+          "flyerMatrix": [
+            0.5481116408379164,
+            -0.0022623345221526652,
+            -0.007959156997863986,
+            0,
+            -0.00551547539988544,
+            0.5439832579540881,
+            0.07616364094305829,
+            0,
+            -0.023350734818526817,
+            -0.04585869946034016,
+            0.6020007847242713,
+            0,
+            -2.0308746982644217,
+            5.173458689894153,
+            0.5619537922649439,
+            1
+          ],
+          "renderer": {
+            "calls": 14,
+            "triangles": 95416,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        }
+      ],
+      "landed": {
+        "selected": "haram-opera",
+        "resident": "haram-opera",
+        "incoming": "haram-opera",
+        "residentRig": {
+          "id": "haram-opera",
+          "style": "haram",
+          "length": "opera",
+          "detail": "full",
+          "batches": 10,
+          "instances": 2171,
+          "glintDrawCalls": 1
+        },
+        "flyerRig": {
+          "id": "haram-opera",
+          "style": "haram",
+          "length": "opera",
+          "detail": "full",
+          "batches": 10,
+          "instances": 2171,
+          "glintDrawCalls": 0
+        },
+        "flyerVisible": false,
+        "flying": false,
+        "k": 0,
+        "out": 0,
+        "residentMatrix": [
+          0.595773043012072,
+          -0.001028266996721345,
+          0.010248371528494317,
+          0,
+          0,
+          0.5928852405518719,
+          0.05948694619507553,
+          0,
+          -0.010299827765676438,
+          -0.05947805842997285,
+          0.592796659357376,
+          0,
+          -2.1842696629213485,
+          -0.35,
+          0,
+          1
+        ],
+        "flyerMatrix": [
+          0.5956883626919303,
+          -0.0014362826041898077,
+          0.014314918007272602,
+          0,
+          1.2920698993482424e-19,
+          0.5928852405518719,
+          0.05948694619507553,
+          0,
+          -0.014386792042496328,
+          -0.05946960450429037,
+          0.592712402086118,
+          0,
+          -2.1842696629213485,
+          -0.34999999999999964,
+          0,
+          1
+        ],
+        "renderer": {
+          "calls": 14,
+          "triangles": 95416,
+          "dpr": 0.6
+        }
+      }
+    },
+    {
+      "id": "guttapusalu-choker",
+      "takeoffError": 0.018238274701422988,
+      "preLandingDisplacement": 3.687007108215555,
+      "samples": [
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.0101,
+          "out": 0.289655,
+          "residentMatrix": [
+            0.5956720012158293,
+            0.001502392418408061,
+            -0.01497381101847366,
+            0,
+            1.2920698993482424e-19,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            0.015048993301741255,
+            -0.05946797108222981,
+            0.5926961223492474,
+            0,
+            -2.1842696629213485,
+            2.1086851620107474,
+            0.2466913694917112,
+            1
+          ],
+          "flyerMatrix": [
+            0.5228883764093537,
+            -0.00443796600892922,
+            -0.2418740621061728,
+            0,
+            -0.06994987208410587,
+            0.47033974215934665,
+            0.20069765405916867,
+            0,
+            -0.17859048405909964,
+            0.01582442305314745,
+            0.8644879411999484,
+            0,
+            3.581827604474268,
+            -1.9269303948170424,
+            -0.272642735664915,
+            0.9999999999999999
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": 0.09726738641079852,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.3814247254013696,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.029805,
+          "out": 0.385517,
+          "residentMatrix": [
+            0.5956393103392819,
+            0.0016264490928603378,
+            -0.01621023978107153,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            0.01629163007226411,
+            -0.059464707440330895,
+            0.592663594790916,
+            0,
+            -2.1842696629213485,
+            3.671157357472254,
+            0.40346150486597543,
+            1
+          ],
+          "flyerMatrix": [
+            0.518158042924895,
+            -0.003960600460139099,
+            -0.2169451979102211,
+            0,
+            -0.06951913053916464,
+            0.47114376230243254,
+            0.20015541047086027,
+            0,
+            -0.19178363210089122,
+            0.015574636917512527,
+            0.8700678652794106,
+            0,
+            3.581004297684138,
+            -1.9048605058756491,
+            -0.26954336089141895,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.396062666562852,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.054418,
+          "out": 0.455862,
+          "residentMatrix": [
+            0.5956152418849658,
+            0.0017120451982590244,
+            -0.017063345727596064,
+            0,
+            0,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.017149019394133085,
+            -0.059462304604303136,
+            0.5926396465786199,
+            0,
+            -2.1842696629213485,
+            4.49289705764642,
+            0.48591048822254684,
+            1
+          ],
+          "flyerMatrix": [
+            0.5151431528395306,
+            -0.0035437518891507716,
+            -0.19701376848059413,
+            0,
+            -0.06835409304607405,
+            0.4731803601344465,
+            0.19878753572188174,
+            0,
+            -0.19891007715001074,
+            0.0147115213712075,
+            0.8723309624740544,
+            0,
+            3.5764050543799,
+            -1.8458659026026254,
+            -0.2614287445773158,
+            1.0000000000000002
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.410237095340607,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.093116,
+          "out": 0.531724,
+          "residentMatrix": [
+            0.5955879038396678,
+            0.001804346518061645,
+            -0.01798328016186632,
+            0,
+            1.2920698993482424e-19,
+            0.5928852405518719,
+            0.05948694619507554,
+            0,
+            0.01807357274413158,
+            -0.05945957535383658,
+            0.5926124451096777,
+            0,
+            -2.1842696629213485,
+            5.054046567921785,
+            0.5422132403269369,
+            1
+          ],
+          "flyerMatrix": [
+            0.5130647545331949,
+            -0.002951210361342372,
+            -0.17199652050048345,
+            0,
+            -0.06513461022125425,
+            0.4784493842528367,
+            0.1951737754097315,
+            0,
+            -0.20079127955108034,
+            0.012290359845408758,
+            0.8712205259978152,
+            0,
+            3.5463569764901566,
+            -1.6775529815789054,
+            -0.23906650288961462,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.418271718401198,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.155452,
+          "out": 0.617931,
+          "residentMatrix": [
+            0.595555935840334,
+            0.0019066157505628627,
+            -0.019002561237645585,
+            0,
+            1.2920698993482424e-19,
+            0.5928852405518719,
+            0.05948694619507553,
+            0,
+            0.01909797154701946,
+            -0.059456383879239724,
+            0.592580636817185,
+            0,
+            -2.1842696629213485,
+            5.282284337791457,
+            0.5651134021243248,
+            1
+          ],
+          "flyerMatrix": [
+            0.5144556944774782,
+            -0.0020149720408864855,
+            -0.1385485577595806,
+            0,
+            -0.056756283983130026,
+            0.4912654254469897,
+            0.18564680686723573,
+            0,
+            -0.18681186784606024,
+            0.005943060235195821,
+            0.8600704427668463,
+            0,
+            3.347111461981621,
+            -1.183158256271893,
+            -0.17735446843123598,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.247277584213314,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.251129,
+          "out": 0.713103,
+          "residentMatrix": [
+            0.5958344387464837,
+            0.005186142405635749,
+            0.002455761079190176,
+            0,
+            -0.005405372082472595,
+            0.592862588932393,
+            0.05946711552528112,
+            0,
+            -0.0019258214298383189,
+            -0.05948663550072042,
+            0.59288214397171,
+            0,
+            -2.4052758107924124,
+            5.281661989716882,
+            0.5725790009611713,
+            1
+          ],
+          "flyerMatrix": [
+            0.5256935748967814,
+            -0.0005907753672349247,
+            -0.09524591009867148,
+            0,
+            -0.038809205039132835,
+            0.517664897968984,
+            0.16195394767036148,
+            0,
+            -0.13743063427832572,
+            -0.00863260955234986,
+            0.8201198961632988,
+            0,
+            2.258637558195819,
+            0.20690393434849338,
+            -0.019500977428687477,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": 3.1795226099836014,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.37336,
+          "out": 0.804138,
+          "residentMatrix": [
+            0.5884160568187085,
+            0.01813364497218179,
+            0.09213750718253663,
+            0,
+            -0.026929196943775175,
+            0.592675914522206,
+            0.05533248529658566,
+            0,
+            -0.08996092297076824,
+            -0.05880507203597633,
+            0.5860892432667211,
+            0,
+            -3.2983775276005396,
+            5.278455550789946,
+            0.6045364376108462,
+            1
+          ],
+          "flyerMatrix": [
+            0.5527430668821841,
+            0.0009638854241920082,
+            -0.05211690408932487,
+            0,
+            -0.0158138296168541,
+            0.5544291631723518,
+            0.11857443177054494,
+            0,
+            -0.056395034426714064,
+            -0.03188426250237722,
+            0.7306802594289808,
+            0,
+            -0.5892910504339275,
+            2.56461639513982,
+            0.23278263724341658,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        },
+        {
+          "selected": "guttapusalu-choker",
+          "resident": "haram-opera",
+          "incoming": "guttapusalu-choker",
+          "residentRig": {
+            "id": "haram-opera",
+            "style": "haram",
+            "length": "opera",
+            "detail": "full",
+            "batches": 10,
+            "instances": 2171,
+            "glintDrawCalls": 1
+          },
+          "flyerRig": {
+            "id": "guttapusalu-choker",
+            "style": "guttapusalu",
+            "length": "choker",
+            "detail": "card",
+            "batches": 8,
+            "instances": 985,
+            "glintDrawCalls": 0
+          },
+          "flyerVisible": true,
+          "flying": true,
+          "k": 0.468759,
+          "out": 0.862069,
+          "residentMatrix": [
+            0.5662079644889788,
+            0.03172178059436862,
+            0.18290400437671295,
+            0,
+            -0.047510071591120355,
+            0.5923070103349019,
+            0.04434866218279741,
+            0,
+            -0.17945177424177372,
+            -0.05672512120674584,
+            0.5653591129339176,
+            0,
+            -4.22351258066016,
+            5.274965362051678,
+            0.6393219077352214,
+            1
+          ],
+          "flyerMatrix": [
+            0.5772635243772652,
+            0.001781813125958715,
+            -0.031111857967138855,
+            0,
+            -0.004514684693688372,
+            0.5782361292352525,
+            0.08364516395219306,
+            0,
+            -0.005668154890428423,
+            -0.04858970953749344,
+            0.6507379342716221,
+            0,
+            -1.8646622251151515,
+            3.337007108215555,
+            0.33986250784628275,
+            1
+          ],
+          "renderer": {
+            "calls": 18,
+            "triangles": 142136,
+            "dpr": 0.6
+          },
+          "clearance": [
+            {
+              "name": "resident",
+              "minimum": null,
+              "penetrations": 0
+            },
+            {
+              "name": "incoming",
+              "minimum": null,
+              "penetrations": 0
+            }
+          ]
+        }
+      ],
+      "landed": {
+        "selected": "guttapusalu-choker",
+        "resident": "guttapusalu-choker",
+        "incoming": "guttapusalu-choker",
+        "residentRig": {
+          "id": "guttapusalu-choker",
+          "style": "guttapusalu",
+          "length": "choker",
+          "detail": "full",
+          "batches": 8,
+          "instances": 985,
+          "glintDrawCalls": 1
+        },
+        "flyerRig": {
+          "id": "guttapusalu-choker",
+          "style": "guttapusalu",
+          "length": "choker",
+          "detail": "full",
+          "batches": 8,
+          "instances": 985,
+          "glintDrawCalls": 0
+        },
+        "flyerVisible": false,
+        "flying": false,
+        "k": 0,
+        "out": 0,
+        "residentMatrix": [
+          0.5951206155736347,
+          0.0029666791971077727,
+          -0.02956783667545338,
+          0,
+          0,
+          0.5928852405518719,
+          0.059486946195075524,
+          0,
+          0.029716294370678825,
+          -0.059412924369679515,
+          0.5921474913385892,
+          0,
+          -2.1842696629213485,
+          -0.35,
+          0,
+          1
+        ],
+        "flyerMatrix": [
+          0.5951985637094627,
+          0.0028065000443937274,
+          -0.027971388016333545,
+          0,
+          2.584139798696485e-19,
+          0.5928852405518719,
+          0.05948694619507553,
+          0,
+          0.02811183007311104,
+          -0.05942070619840048,
+          0.5922250500584137,
+          0,
+          -2.1842696629213485,
+          -0.34999999994235864,
+          5.783429291028597e-12,
+          1
+        ],
+        "renderer": {
+          "calls": 18,
+          "triangles": 142136,
+          "dpr": 0.6
+        }
+      }
+    }
+  ],
+  "filters": [
+    {
+      "style": "temple",
+      "length": "choker",
+      "ids": [
+        "temple-choker"
+      ]
+    },
+    {
+      "style": "temple",
+      "length": "collar",
+      "ids": [
+        "temple-collar"
+      ]
+    },
+    {
+      "style": "temple",
+      "length": "princess",
+      "ids": [
+        "temple-princess"
+      ]
+    },
+    {
+      "style": "temple",
+      "length": "opera",
+      "ids": [
+        "temple-opera"
+      ]
+    },
+    {
+      "style": "kundan",
+      "length": "choker",
+      "ids": [
+        "kundan-choker"
+      ]
+    },
+    {
+      "style": "kundan",
+      "length": "collar",
+      "ids": [
+        "kundan-collar"
+      ]
+    },
+    {
+      "style": "kundan",
+      "length": "princess",
+      "ids": []
+    },
+    {
+      "style": "kundan",
+      "length": "opera",
+      "ids": [
+        "kundan-opera"
+      ]
+    },
+    {
+      "style": "guttapusalu",
+      "length": "choker",
+      "ids": [
+        "guttapusalu-choker"
+      ]
+    },
+    {
+      "style": "guttapusalu",
+      "length": "collar",
+      "ids": [
+        "guttapusalu-collar"
+      ]
+    },
+    {
+      "style": "guttapusalu",
+      "length": "princess",
+      "ids": [
+        "guttapusalu-princess"
+      ]
+    },
+    {
+      "style": "guttapusalu",
+      "length": "opera",
+      "ids": [
+        "guttapusalu-opera"
+      ]
+    },
+    {
+      "style": "haram",
+      "length": "choker",
+      "ids": [
+        "haram-choker"
+      ]
+    },
+    {
+      "style": "haram",
+      "length": "collar",
+      "ids": [
+        "haram-collar"
+      ]
+    },
+    {
+      "style": "haram",
+      "length": "princess",
+      "ids": [
+        "haram-princess"
+      ]
+    },
+    {
+      "style": "haram",
+      "length": "opera",
+      "ids": [
+        "haram-opera"
+      ]
+    }
+  ],
+  "filteredNext": "haram-opera",
+  "performance": {
+    "medianFrameMs": 16.89999999999418,
+    "p95FrameMs": 33.5,
+    "frames": 120,
+    "dpr": 0.6
+  },
+  "mobile": {
+    "overflow": false,
+    "filters": [
+      true,
+      true
+    ],
+    "canvas": true
+  },
+  "screens": [
+    "case-choker.png",
+    "case-collar.png",
+    "case-princess.png",
+    "case-opera.png"
+  ]
+}

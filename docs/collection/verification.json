@@ -1,0 +1,156 @@
+{
+  "assets": [
+    {
+      "id": "96173",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97519",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97524",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        0
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97548",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97573",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97619",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97673",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97630",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97584",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97567",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97592",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97457",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        0
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97462",
+      "fill": 0.85009765625,
+      "offset": [
+        -0.5,
+        0
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97591",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97598",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    },
+    {
+      "id": "97607",
+      "fill": 0.85009765625,
+      "offset": [
+        0,
+        -0.5
+      ],
+      "borderAlpha": 0
+    }
+  ],
+  "review": {
+    "images": 32,
+    "allLoaded": true,
+    "backgroundSwitch": true,
+    "search": true,
+    "mobileOverflow": false,
+    "pageErrors": []
+  }
+}
